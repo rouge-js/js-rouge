@@ -1,3 +1,5 @@
+This repo is simply a fork of https://github.com/kenlimmj/rouge, made simply to push the latest version to npm
+
 <!--
 @Author: Lim Mingjie, Kenneth <Astrianna>
 @Date:   2016-02-28T14:41:51-05:00

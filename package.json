@@ -1,6 +1,6 @@
 {
   "name": "js-rouge",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Recall-Oriented Understudy for Gisting Evaluation (ROUGE) Evaluation Functions",
   "main": "dist/es5/rouge.js",
   "jsnext:main": "dist/es6/rouge.js",
@@ -19,9 +19,9 @@
   "author": "Lim Mingje, Kenneth <me@kenlimmj.com> (https://kenlimmj.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kenlimmj/rouge/issues"
+    "url": "https://github.com/rouge-js/js-rouge/issues"
   },
-  "homepage": "https://github.com/kenlimmj/rouge",
+  "homepage": "https://github.com/rouge-js/js-rouge",
   "devDependencies": {
     "babel-plugin-transform-flow-strip-types": "^6.4.0",
     "babel-preset-es2015-rollup": "^1.1.1",
