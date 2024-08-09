@@ -1,5 +1,5 @@
 {
-  "name": "rouge",
+  "name": "js-rouge",
   "version": "2.0.0",
   "description": "Recall-Oriented Understudy for Gisting Evaluation (ROUGE) Evaluation Functions",
   "main": "dist/es5/rouge.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/kenlimmj/rouge.git"
+    "url": "git+ssh://git@github.com:js-rouge/js-rouge.git"
   },
   "keywords": [
     "ROUGE",
